@@ -10,3 +10,10 @@
     <li>zelena LED: PC9</li>
     <li>modra LED: PC8</li>
 </ul>
+
+<ul>
+  <h3>Komentar:</h3>
+  <p>
+    Med programiranjem ni bilo večjih težav. Največja problem se je pojavil pri nastavljanju enačbe za šesti pin.
+  </p>
+</ul>
