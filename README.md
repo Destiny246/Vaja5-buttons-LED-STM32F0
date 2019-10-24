@@ -14,7 +14,7 @@
 <ul>
   <h3>Komentar:</h3>
   <p>
-    Med programiranjem ni bilo večjih težav. Največja problem se je pojavil pri nastavljanju enačbe za šesti pin.
+    Med programiranjem ni bilo večjih težav. Največja problem se je pojavil pri nastavljanju enačbe za šesti pin.<br>
     Tipke so nastavljene na pull up logiko.
   </p>
 </ul>
